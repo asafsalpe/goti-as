@@ -43,7 +43,7 @@ tr:nth-child(even) {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: red;
+  background-color: rgb(201, 68, 68);
   color: white;
   text-align: center;
   height: 35px;
