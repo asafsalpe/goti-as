@@ -1,23 +1,29 @@
-
-body{ 
-background-color: wheat;
-color:brown;
-font-size: 24px;
-font-weight: bold;
+body {
+  background-color: wheat;
+  color: brown;
+  font-size: 24px;
+  font-weight: bold;
 }
-h2{
-    font-weight: bold;
+h2 {
+  font-weight: bold;
 }
-h1{
-    color:black;
+h1 {
+  color: black;
 }
-h3{
-    color: #3C3C3C
+h3 {
+  color: #3c3c3c;
 }
-div{
-    font-size: 24px;
-    font-weight: bold;
+div {
+  font-size: 24px;
+  font-weight: bold;
 }
-a{
-    font-size: 20px;
+a {
+  font-size: 20px;
+}
+.ikona {
+  padding-left: 120px;
+}
+table {
+  border: solid;
+  border-style: dashed;
 }
